@@ -36,7 +36,7 @@ npm run dev
 
 The server will start and automatically restart on changes.
 
-## 5️⃣ Run in Production Mode
+5️⃣ Run in Production Mode
 
 ```bash
 npm run build
