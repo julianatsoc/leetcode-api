@@ -3,7 +3,7 @@ import { getStats } from "./services";
 
 const router = Router();
 
-router.get("/status/:username", async (req, res) => {
+router.get("/stats/:username", async (req, res) => {
   const { username } = req.params;
 
   try {
