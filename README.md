@@ -27,9 +27,9 @@ npm install
 yarn install
 ```
 
-### The default port is 3000, but you can override it
+3️⃣ The default port is 3000, but you can override it
 
-## 4️⃣ Run in Development Mode
+4️⃣ Run in Development Mode
 
 ```bash
 npm run dev
