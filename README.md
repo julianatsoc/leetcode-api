@@ -8,7 +8,6 @@ An API built with **TypeScript**, **Express**, and **Axios** to fetch data from 
 - **TypeScript**
 - **Express**
 - **Axios**
-- **dotenv** (for environment variables)
 - **Nodemon** (for development)
 
 ## 🔧 How to Run the Project
