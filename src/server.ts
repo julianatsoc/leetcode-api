@@ -4,14 +4,7 @@ import cors from "cors";
 
 const app = express();
 
-const corsOptions = {
-  origin: "https://leetcode-stats-generator.vercel.app", 
-  methods: ["GET"], 
-  allowedHeaders: ["Content-Type"], 
-};
-
-app.use(cors(corsOptions));
-
+app.use(cors());
 app.use(express.json());
 app.use(routes);
 
