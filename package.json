@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/cors": "^2.8.17",
     "axios": "^1.7.9",
+    "cors": "^2.8.5",
     "express": "^4.21.2"
   },
   "devDependencies": {
