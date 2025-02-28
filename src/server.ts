@@ -6,7 +6,7 @@ const app = express();
 
 const corsOptions = {
   origin: "https://leetcode-stats-generator.vercel.app", 
-  methods: ["GET", "POST"], 
+  methods: ["GET"], 
   allowedHeaders: ["Content-Type"], 
 };
 
